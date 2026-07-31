@@ -1,7 +1,5 @@
 package com.floatinglauncher;
 
-import android.app.Activity;
-import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.content.pm.ResolveInfo;
@@ -15,17 +13,23 @@ import android.view.LayoutInflater;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.WindowManager;
+<<<<<<< HEAD
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.ListView;
+=======
+>>>>>>> 5cf391c3792ead79777a98f8ed3e3b63baf69f02
 import android.widget.Toast;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
+<<<<<<< HEAD
 
 import java.util.ArrayList;
 import java.util.List;
+=======
+>>>>>>> 5cf391c3792ead79777a98f8ed3e3b63baf69f02
 
 public class MainActivity extends AppCompatActivity {
     private static final int OVERLAY_PERMISSION_REQUEST = 123;
