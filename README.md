@@ -33,3 +33,4 @@ A floating overlay app that launches any Android app from a floating bubble.
 5. Tap the bubble to launch the selected app
 6. Drag the bubble to reposition it
 7. Tap the X to close the floating overlay
+# Trigger rebuild
